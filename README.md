@@ -26,3 +26,4 @@ Some tests done on Yaskawa MA1440 executing a straight line trajectory along the
 
 youtube link to videos: [Link](https://www.youtube.com/playlist?list=PLLQNCcGbjtuqyYQQJ1ArgyS5mgTRuhVYO)
 
+the desired Cartesian trajectories are in the folder of the same name. The corresponding joint trajectories were computed using our version of Descartes ported to ROS2
